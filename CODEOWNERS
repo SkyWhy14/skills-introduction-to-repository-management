@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @SkyWhy14
+/src/backend/database.py      @SkyWhy14
+/src/backend/routers/auth.py  @SkyWhy14
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @SkyWhy14
